@@ -3,8 +3,8 @@
 Android Simple Expanding Card Slider and animation demo
 
 ## Requirements
-​
-- Android API lvl 16 or greater
+
+- Android API level 16 or greater
 - Your favorite IDE
 
 # Thanks To :
